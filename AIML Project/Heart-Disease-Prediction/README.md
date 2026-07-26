@@ -2,14 +2,6 @@
 
 This project contains a starter structure for a heart disease prediction app.
 
-## Structure
-- backend/: prediction logic
-- frontend/: Streamlit interface
-- model/: trained model artifacts
-- app.py: Flask entry point
-
-# Heart Disease Prediction
-
 ## Setup
 
 ```bash
